@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\CVWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC2B62F-CB1E-458A-B9EB-DA049EB632C7}|CvWeb\\CvWeb.csproj|c:\\users\\usuario\\desktop\\nueva carpeta\\cvweb\\cvweb\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{BCC2B62F-CB1E-458A-B9EB-DA049EB632C7}|CvWeb\\CvWeb.csproj|solutionrelative:cvweb\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC2B62F-CB1E-458A-B9EB-DA049EB632C7}|CvWeb\\CvWeb.csproj|c:\\users\\usuario\\desktop\\nueva carpeta\\cvweb\\cvweb\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC2B62F-CB1E-458A-B9EB-DA049EB632C7}|CvWeb\\CvWeb.csproj|solutionrelative:cvweb\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC2B62F-CB1E-458A-B9EB-DA049EB632C7}|CvWeb\\CvWeb.csproj|c:\\users\\usuario\\desktop\\nueva carpeta\\cvweb\\cvweb\\dominio\\solicitante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC2B62F-CB1E-458A-B9EB-DA049EB632C7}|CvWeb\\CvWeb.csproj|solutionrelative:cvweb\\dominio\\solicitante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC2B62F-CB1E-458A-B9EB-DA049EB632C7}|CvWeb\\CvWeb.csproj|c:\\users\\usuario\\desktop\\nueva carpeta\\cvweb\\cvweb\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BCC2B62F-CB1E-458A-B9EB-DA049EB632C7}|CvWeb\\CvWeb.csproj|solutionrelative:cvweb\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Solicitante.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\CVWeb\\CvWeb\\Dominio\\Solicitante.cs",
+              "RelativeDocumentMoniker": "CvWeb\\Dominio\\Solicitante.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\CVWeb\\CvWeb\\Dominio\\Solicitante.cs",
+              "RelativeToolTip": "CvWeb\\Dominio\\Solicitante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAC2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T20:40:41.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\CVWeb\\CvWeb\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "CvWeb\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\CVWeb\\CvWeb\\Default.aspx.cs",
+              "RelativeToolTip": "CvWeb\\Default.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T20:38:37.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\CVWeb\\CvWeb\\Site.Master",
+              "RelativeDocumentMoniker": "CvWeb\\Site.Master",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\CVWeb\\CvWeb\\Site.Master",
+              "RelativeToolTip": "CvWeb\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-03T18:46:18.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\CVWeb\\CvWeb\\Default.aspx",
+              "RelativeDocumentMoniker": "CvWeb\\Default.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\CVWeb\\CvWeb\\Default.aspx",
+              "RelativeToolTip": "CvWeb\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-03T18:30:49.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
